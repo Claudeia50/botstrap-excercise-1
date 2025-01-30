@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+}
+
+.forms {
+  text-align: left;
+  margin-left: 50px;
+}
+
+.form-label {
+  height: 200px;
+  font-size: 14pt;
+  line-height: 2;
+}
+
+.form-control {
+  width: 300px;
+  height: 30px;
+  border-radius: 5px;
+  border-color: lightgray;
+}
+
+.form-select {
+  width: 200px;
+  height: 30px;
+}
